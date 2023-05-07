@@ -24,3 +24,7 @@ def broken(list):
 
 a = scan_links(input("Enter a domain name: "))
 b = broken(a)
+
+
+# Show love and support <3
+# Telegram @Techturfbot
